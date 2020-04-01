@@ -8,6 +8,9 @@ int speed = 10;
 int health = 9;
 }
 
+
 class HusseinV2Class{
-//what a wonderful feature
+
+class hussein{
+
 }
