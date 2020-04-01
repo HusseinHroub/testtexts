@@ -8,6 +8,9 @@ int speed = 10;
 int health = 9;
 }
 
-//this class was cloned from develop and here is my changes
+
+class HusseinV2Class{
+
 class hussein{
+
 }
