@@ -1,0 +1,4 @@
+class Dog{
+int speed = 2;
+int health = 3;
+}
