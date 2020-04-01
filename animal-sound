@@ -2,3 +2,8 @@ class Dog{
 int speed = 2;
 int health = 3;
 }
+
+class Cat{
+int speed = 10;
+int health = 9;
+}
